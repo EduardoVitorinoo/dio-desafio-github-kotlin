@@ -1,2 +1,2 @@
-# dio-desafio-github-kotlin
+# Repositorio do desafio De Git da DIO
 Desafio Kotlin 
